@@ -12,11 +12,11 @@
 
 ## Status
 
-<div style="display:flex;justify-content:space-between;align-items: center;">
-  <a href="" style="display: inline-block; width: 50%;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical" />
+<div style="display:flex;justify-content:space-around;align-items: center;">
+  <a href="">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical"/>
   </a>
-  <a href="" style="display: inline-block;">
+  <a href="">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusssilva991&theme=react&line_height=40&hide=css" />
   </a>
 </div>
