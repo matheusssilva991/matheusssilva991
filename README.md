@@ -12,7 +12,7 @@
 
 ## Status
 
-<div style="display:flex;justify-content:space-between;align-items: center;flex-wrap: wrap;">
+<div style="display:flex;justify-content:space-between;align-items: center;">
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical"/> </a>
 
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusssilva991&theme=react&line_height=40&hide=css"/> </a>
@@ -20,7 +20,7 @@
 
 ## Linguagens e Ferramentas
 
-<div style="display: flex;justify-content: space-around;">
+<div style="display: flex;justify-content: space-around;flex-wrap: wrap;">
 <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
 
 <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
