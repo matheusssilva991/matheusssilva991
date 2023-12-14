@@ -14,10 +14,10 @@
 
 <div style="display:flex;justify-content:space-between;align-items: center;">
   <a href="">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical" style="width: 48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical" style="margin-right: 20px" />
   </a>
   <a href="" style="display: inline-block;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusssilva991&theme=react&line_height=40&hide=css" style="width: 40%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusssilva991&theme=react&line_height=40&hide=css" />
   </a>
 </div>
 
