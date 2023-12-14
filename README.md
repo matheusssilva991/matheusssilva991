@@ -17,7 +17,7 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical" style="margin-left: 10px; margin-right: 10px" />
   </a>
   <a href="" style="display: inline-block;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical" style="margin-left: 10px; margin-right: 10px" />
+    <img src="[https://github-readme-stats-sigma-five.vercel.app/api?username=matheusssilva991&show_icons=true&theme=radical](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusssilva991&theme=react&line_height=40)" style="margin-left: 10px; margin-right: 10px" />
   </a>
 </div>
 
