@@ -25,7 +25,8 @@
 ## Linguagens e Ferramentas
 
 <div style="display: flex;justify-content: space-around;flex-wrap: wrap;">
-<img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 
 <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"/>
 
